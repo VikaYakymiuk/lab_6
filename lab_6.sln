@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "problem_1", "problem_1\problem_1.csproj", "{327920C6-2358-440E-8858-5BA2104B52A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problem_2", "problem_2\problem_2.csproj", "{20D47C7C-2D94-4A76-8123-292FA77F6B35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problem_3", "problem_3\problem_3.csproj", "{913921E6-A06C-4AD1-BAB3-8836F5CECA9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{327920C6-2358-440E-8858-5BA2104B52A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327920C6-2358-440E-8858-5BA2104B52A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327920C6-2358-440E-8858-5BA2104B52A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327920C6-2358-440E-8858-5BA2104B52A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20D47C7C-2D94-4A76-8123-292FA77F6B35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D47C7C-2D94-4A76-8123-292FA77F6B35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D47C7C-2D94-4A76-8123-292FA77F6B35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D47C7C-2D94-4A76-8123-292FA77F6B35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{913921E6-A06C-4AD1-BAB3-8836F5CECA9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913921E6-A06C-4AD1-BAB3-8836F5CECA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913921E6-A06C-4AD1-BAB3-8836F5CECA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913921E6-A06C-4AD1-BAB3-8836F5CECA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8AA4744-C5DB-4096-83D6-BA4F26111470}
+	EndGlobalSection
+EndGlobal
